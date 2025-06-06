@@ -1,0 +1,27 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Headphones -->
+  <g transform="translate(3, 3)">
+    <!-- Headband -->
+    <path d="M3 12 Q 13 2 23 12" stroke="#475569" stroke-width="2" fill="none" stroke-linecap="round"/>
+    
+    <!-- Left ear cup -->
+    <circle cx="5" cy="16" r="5" fill="#475569"/>
+    <circle cx="5" cy="16" r="3.5" fill="#64748b"/>
+    
+    <!-- Right ear cup -->
+    <circle cx="21" cy="16" r="5" fill="#475569"/>
+    <circle cx="21" cy="16" r="3.5" fill="#64748b"/>
+    
+    <!-- Document/Note icon -->
+    <g transform="translate(9, 10)">
+      <!-- Document background -->
+      <rect x="0" y="0" width="8" height="12" rx="1" fill="#f59e0b"/>
+      <!-- Document corner fold -->
+      <path d="M6 0 L8 2 L6 2 Z" fill="#eab308"/>
+      <!-- Document lines -->
+      <line x1="1.5" y1="4" x2="6.5" y2="4" stroke="#0f172a" stroke-width="0.5"/>
+      <line x1="1.5" y1="6" x2="5" y2="6" stroke="#0f172a" stroke-width="0.5"/>
+      <line x1="1.5" y1="8" x2="6" y2="8" stroke="#0f172a" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg> 
